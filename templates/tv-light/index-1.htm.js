@@ -1,0 +1,1 @@
+document.write('<a href="https://soft.softodrom.ru/ap/MicroRecorder-p4723" target="_blank" title="Информер программы MicroRecorder 0.5"><img src="https://soft.softodrom.ru/inf/4723.png" alt="" /></a>');
